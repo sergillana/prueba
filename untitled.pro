@@ -15,4 +15,4 @@ CONFIG   -= app_bundle
 TEMPLATE = app
 
 
-SOURCES += main.cpp newFile.cpp
+SOURCES += main.cpp newFile.cpp hola.txt
