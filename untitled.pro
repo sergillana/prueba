@@ -15,5 +15,5 @@ CONFIG   -= app_bundle
 TEMPLATE = app
 
 
-SOURCES += main.cpp
-hola mundo nueva rama otro cambio
+SOURCES += main.cpp jojijajo
+hola mundo estoy en master
